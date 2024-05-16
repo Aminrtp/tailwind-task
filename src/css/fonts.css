@@ -1,0 +1,50 @@
+@font-face {
+  font-family: vazir;
+  font-weight: 100;
+  font-style: normal;
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Thin.woff) format("woff");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Thin.woff2) format("woff2");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Thin.ttf) format("truetype");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Thin.eot) format("embedded-opentype");
+}
+
+@font-face {
+  font-family: vazir;
+  font-weight: 300;
+  font-style: normal;
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Light.woff) format("woff");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Light.woff2) format("woff2");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Light.ttf) format("truetype");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir-Light.eot) format("embedded-opentype");
+}
+
+
+@font-face {
+  font-family: vazir;
+  font-weight: normal;
+  font-style: normal;
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir.woff) format("woff");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir.woff2) format("woff2");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir.ttf) format("truetype");
+  src: url(/digitizeapp/assets/fonts/vazir/Vazir.eot) format("embedded-opentype");
+}
+
+@font-face {
+    font-family: vazir;
+    font-weight: 500;
+    font-style: normal;
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Medium.woff) format("woff");
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Medium.woff2) format("woff2");
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Medium.ttf) format("truetype");
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Medium.eot) format("embedded-opentype");
+  }
+
+  @font-face {
+    font-family: vazir;
+    font-weight: bold;
+    font-style: normal;
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Bold.woff) format("woff");
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Bold.woff2) format("woff2");
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Bold.ttf) format("truetype");
+    src: url(/digitizeapp/assets/fonts/vazir/Vazir-Bold.eot) format("embedded-opentype");
+  }
